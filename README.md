@@ -1,1 +1,1 @@
-Ein Projekt, in dem Geheimnisse in das Repository geladen wurden, die sich nun in der Historie befinden.
+Ein Projekt, in dem Geheimnisse in das Repository geladen wurden, die aber wieder aus der Historie entfernt wurden.
